@@ -1,3 +1,3 @@
 # Marksheet-generator
 
-https://github.com/praveen9669/Marksheet-generator/blob/main/screen-20250309-173807~2.mp4
+https://github.com/praveen9669/Marksheet-generator/asset/screen-20250309-173807~2.mp4
